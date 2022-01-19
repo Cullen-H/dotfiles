@@ -1,0 +1,10 @@
+Thunar/
+dconf/
+gtk-3.0/
+pcmanfm/
+xfce4/
+pulse/
+ncmpcpp/
+user-dirs.locale
+user-dirs.dirs 
+mimeapps.list
